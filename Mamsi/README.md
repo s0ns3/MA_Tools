@@ -1,4 +1,4 @@
-                                 ![mamsi_icon](https://user-images.githubusercontent.com/91854196/135774616-cd048988-735b-4bce-9c53-9d7f5217954e.png)
+![mamsi_icon](https://user-images.githubusercontent.com/91854196/135774616-cd048988-735b-4bce-9c53-9d7f5217954e.png)
 
  
  MAMSI (Malicious Msi) is a python script able to extract scripts hidden within MSI files.
