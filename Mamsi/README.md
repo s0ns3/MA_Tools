@@ -2,7 +2,7 @@
         @s0ns3
                                 
                                 
-                                ![GitHub Logo](/mamsi_icon.png)
+                                ![](mamsi_icon.png)
                                 
                                 
  
