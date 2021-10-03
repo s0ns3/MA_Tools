@@ -5,6 +5,8 @@
 ██║ ╚═╝ ██║██║  ██║██║ ╚═╝ ██║███████║██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  
    
+   
+   
                     @s0ns3
  
  MAMSI (Malicious Msi) is a python script able to extract scripts hidden within MSI files.
