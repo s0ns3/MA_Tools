@@ -1,7 +1,3 @@
-
-        @s0ns3
-                                
-                                
                                 ![](mamsi_icon.png)
                                 
                                 
